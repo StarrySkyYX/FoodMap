@@ -8,7 +8,5 @@ class Store (
     @DrawableRes val menuId: Int,
     @StringRes val nameId: Int,
     @StringRes val addressId: Int,
-//    @StringRes val longitude: Int,
-//    @StringRes val latitude: Int,
 )
 
